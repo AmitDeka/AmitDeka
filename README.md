@@ -16,6 +16,8 @@
 * [Facebook](https://www.facebook.com/amit.deka.official)
 * [Twitter](https://twitter.com/AmitDeka10)
 
+![Twitter Follow](https://img.shields.io/twitter/follow/AmitDeka10?style=social)
+
 ## ⚡ Fun fact:
 #### An apple, potato, and onion all taste the same if you eat them with your nose plugged.
 
