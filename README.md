@@ -1,3 +1,25 @@
+### Hi there, I'm Amit 👋
+
+[![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=amitdeka.github.io&style=for-the-badge&up_color=green&up_message=UP&url=https%3A%2F%2Famitdeka.github.io%2F)](https://amitdeka.github.io/)
+
+[![Twitter](https://img.shields.io/twitter/follow/AmitDeka10?color=%231DA1F2&style=for-the-badge)](https://twitter.com/AmitDeka10)
+
+## I'm a Student and a Frontend Developer
+
+- 🔭 I currently working on a Wordpress project [NagaEd][http://nagaed.com/]!
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: One of my favorite life hacks is Ctrl C + Ctrl V
+
+### Connect with me:
+
+[<img align="left" alt="amitdeka.github.io" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.22.0/icons/About.me.svg" />][amitdeka.github.io]
+[<img align="left" alt="Amit Deka | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.22.0/icons/Twitter.svg" />][https://twitter.com/amitdeka10]
+[<img align="left" alt="Amit Deka | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.22.0/icons/LinkedIn.svg" />][https://www.linkedin.com/in/amit-deka/]
+[<img align="left" alt="Amit Deka | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.22.0/icons/Instagram.svg" />][https://www.instagram.com/1.frustrated.engineer/]
+
+<br />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitDeka&count_private=true&show_icons=true&theme=github_dark)](https://github.com/AmitDeka/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitDeka&langs_count=8)](https://github.com/AmitDeka/)
