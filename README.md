@@ -14,7 +14,7 @@
 ### Connect with me:
 
 [<img align="left" alt="amitdeka.github.io" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.22.0/icons/About.me.svg" />][amitdeka.github.io]
-[<img align="left" alt="Amit Deka | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.22.0/icons/Twitter.svg" />][https://twitter.com/amitdeka10]
+[<img align="left" alt="Amit Deka | Twitter" width="24px" src="https://unpkg.com/browse/simple-icons@5.22.0/icons/twitter.svg" />][https://twitter.com/amitdeka10]
 [<img align="left" alt="Amit Deka | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.22.0/icons/LinkedIn.svg" />][https://www.linkedin.com/in/amit-deka/]
 [<img align="left" alt="Amit Deka | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.22.0/icons/Instagram.svg" />][https://www.instagram.com/1.frustrated.engineer/]
 
