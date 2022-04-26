@@ -1,49 +1,55 @@
-### Hi there, I'm Amit 👋
+# Hi 👋 My name is Amit Deka
+
+## Front End Web Developer
+
+An IT Student from India, Technology Enthusiast & an addicted Web Developer.
+
+- 🌍  I'm based in Assam
+- 🖥️  See my portfolio at [Website](http://amitdeka.github.io/)
+- ✉️  You can contact me at [amitdeka13@gmail.com](mailto:amitdeka13@gmail.com)
+- 🧠  I'm learning React JS
+- ⚡  An apple, potato, and onion all taste the same if you eat them with your nose plugged.
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=amitdeka.github.io&style=for-the-badge&up_color=green&up_message=UP&url=https%3A%2F%2Famitdeka.github.io%2F)](https://amitdeka.github.io/)
 
-[![Twitter](https://img.shields.io/twitter/follow/AmitDeka10?color=%231DA1F2&style=for-the-badge)](https://twitter.com/AmitDeka10)
+<a href="https://www.twitter.com/AmitDeka10" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/AmitDeka10?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/AmitDeka" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/AmitDeka?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-## I'm a Student and a Frontend Developer
+### Skills
 
-- 🔭 I currently working on a Wordpress project [NagaEd][http://nagaed.com/]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: One of my favorite life hacks is Ctrl C + Ctrl V
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-[<img align="left" alt="amitdeka.github.io" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.22.0/icons/About.me.svg" />][amitdeka.github.io]
-[<img align="left" alt="Amit Deka | Twitter" width="24px" src="https://unpkg.com/browse/simple-icons@5.22.0/icons/twitter.svg" />][https://twitter.com/amitdeka10]
-[<img align="left" alt="Amit Deka | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.22.0/icons/LinkedIn.svg" />][https://www.linkedin.com/in/amit-deka/]
-[<img align="left" alt="Amit Deka | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.22.0/icons/Instagram.svg" />][https://www.instagram.com/1.frustrated.engineer/]
+### Socials
 
-<br />
+<p align="left"> <a href="https://www.github.com/AmitDeka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amit-deka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12417834/amit-deka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AmitDeka10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmitDeka&count_private=true&show_icons=true&theme=github_dark)](https://github.com/AmitDeka/)
+### Badges
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitDeka&langs_count=8)](https://github.com/AmitDeka/)
+<b>My GitHub Stats</b>
 
-# Hi Devs :innocent: ,
+<a href="http://www.github.com/AmitDeka"><img src="https://github-readme-stats.vercel.app/api?username=AmitDeka&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AmitDeka's GitHub stats" /></a>
 
-<!--
-**AmitDeka/AmitDeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<a href="https://github.com/AmitDeka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitDeka&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-> Hi, I am Amit currently a
-> Fourth year IT student an
-> North-Eastern Hill University(NEHU) :school:,
-> and a aspiring Web Develover :computer:.
+### Support Me
 
- <!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-## 💬 Ask me about -->
-
-## 📫 How to reach me:
-
-- [Instagram](https://www.instagram.com/frustratedx_engineer/)
-- [Facebook](https://www.facebook.com/amit.deka.official)
-- [Twitter](https://twitter.com/AmitDeka10)
-
-![GitHub followers](https://img.shields.io/github/followers/AmitDeka?style=social)
-
-## ⚡ Fun fact:
-
-#### An apple, potato, and onion all taste the same if you eat them with your nose plugged.
+<a href="https://www.buymeacoffee.com/AmitDeka10"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
