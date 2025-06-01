@@ -1,5 +1,7 @@
 # Hi 👋 My name is Amit Deka
 
+![](https://komarev.com/ghpvc/?username=AmitDeka&color=green)
+
 ## Front End Web Developer
 
 An IT Student from India, Technology Enthusiast & an addicted Web Developer.
