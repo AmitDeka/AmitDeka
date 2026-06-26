@@ -12,7 +12,10 @@ An IT Student from India, Technology Enthusiast & an addicted Web Developer.
 - 🧠  I'm learning React JS
 - ⚡  An apple, potato, and onion all taste the same if you eat them with your nose plugged.
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=amitdeka.work&style=for-the-badge&up_color=green&up_message=UP&url=https%3A%2F%2Famitdeka.work%2F)](https://www.amitdeka.work/)
+https://img.shields.io/website?url=https%3A%2F%2Famit-deka.vercel.app%2F
+https://img.shields.io/website?url=https%3A%2F%2Famit-deka.vercel.app%2F&up_message=UP&down_message=DOWN&style=flat
+
+[![Website]([https://img.shields.io/website?down_color=red&down_message=Down&label=amitdeka.work&style=for-the-badge&up_color=green&up_message=UP&url=https%3A%2F%2Famitdeka.work%2F](https://img.shields.io/website?url=https%3A%2F%2Famit-deka.vercel.app%2F&up_message=UP&down_message=DOWN&style=flat))](https://www.amitdeka.work/)
 
 <a href="https://www.twitter.com/AmitDeka10" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/AmitDeka10?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
