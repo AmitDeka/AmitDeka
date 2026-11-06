@@ -22,7 +22,7 @@
 I build fast, accessible and responsive web interfaces. By day I work in cloud support on **Microsoft Azure**, and by night I build things with **Next.js**, **React** and **Tailwind CSS**.
 
 - 🌍 Based in **Assam, India**
-- 🖥️ Portfolio: [amitdeka.work](https://www.amitdeka.work/)
+- 🖥️ Portfolio: [amit-deka.vercel.app](https://amit-deka.vercel.app/)
 - ✉️ Reach me at [amitdeka13@gmail.com](mailto:amitdeka13@gmail.com)
 - ⚡ Currently building with **Next.js**, **Tailwind CSS** and **Shadcn UI**
 - ♿ I care about semantic HTML, accessibility and page speed (Lighthouse)
